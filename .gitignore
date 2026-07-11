@@ -1,0 +1,5 @@
+# Ignore everything
+*
+!.gitignore
+!01-Data/
+!PPMT-FDA-SGS.ipynb
