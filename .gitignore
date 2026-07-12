@@ -1,5 +1,8 @@
 # Ignore everything
 *
 !.gitignore
+!CLAUDE.md
 !01-Data/
 !PPMT-FDA-SGS.ipynb
+!PPMTs_VARIOGRAMS.ipynb
+!VALIDATION.ipynb
